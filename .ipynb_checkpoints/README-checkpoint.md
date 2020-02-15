@@ -3,7 +3,7 @@ It is a simple example of how restructuring and Denosing works within the Auto E
 by [Tero Karras](https://research.nvidia.com/person/tero-karras)
 
 
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/loaiabdalslam/FC/blob/master/face-enhancer%E2%80%8F.ipynb)
 
 
 # Requirements
